@@ -1,0 +1,841 @@
+{
+    "categories": [
+        {
+            "name": "Shopify",
+            "subcategories": [
+                {
+                    "name": "店铺建设与页面设计",
+                    "websites": [
+                        {
+                            "website_name": "Shopify",
+                            "official_url": "https://www.shopify.com/",
+                            "main_purpose": "全球领先的电商平台，提供完整的独立站解决方案，包括网店搭建、支付处理、库存管理和营销工具，适合各规模商家快速建立在线业务。"
+                        },
+                        {
+                            "website_name": "Shogun Page Builder",
+                            "official_url": "https://apps.shopify.com/shogun",
+                            "main_purpose": "Shopify页面设计工具，提供拖拽式编辑功能和专业模板，帮助卖家创建高转化率的产品页面和着陆页，无需编码技能。"
+                        },
+                        {
+                            "website_name": "Unbounce",
+                            "official_url": "https://unbounce.com/",
+                            "main_purpose": "专业着陆页构建平台，提供高转化率模板和A/B测试功能，帮助电商卖家创建针对广告活动的专属页面，提高广告投资回报率。"
+                        },
+                        {
+                            "article": "[2019-08-19]从零开始30天学会在shopify上开店之如何把产品添加到Sendlane里.md",
+                            "website_name": "小北的梦呓",
+                            "official_url": "www.guxiaobei.com",
+                            "main_purpose": "关于Shopify开店系列的文章更新"
+                        },
+                        {
+                            "article": "[2019-09-23]创业3天交易额92216Shopify实战案例.md",
+                            "website_name": "Pixel Union",
+                            "official_url": "https://www.pixelunion.net/shopify-themes/",
+                            "main_purpose": "提供高质量的Shopify主题"
+                        }
+                    ]
+                },
+                {
+                    "name": "营销与转化优化",
+                    "websites": [
+                        {
+                            "website_name": "Trifunnels",
+                            "official_url": "https://trifunnels.com/",
+                            "main_purpose": "销售漏斗构建工具，帮助电商卖家创建高转化率的销售路径，优化用户体验，提高购物车完成率和客户生命周期价值，降低获客成本。"
+                        },
+                        {
+                            "website_name": "Launchpad",
+                            "official_url": "https://apps.shopify.com/launchpad?ref=starter-story",
+                            "main_purpose": "Shopify促销活动管理工具，支持预设和自动化促销策略，包括价格变动、库存调整和页面更改，简化大型促销活动的执行流程。"
+                        },
+                        {
+                            "website_name": "BEST Currency Converter",
+                            "official_url": "https://apps.shopify.com/doubly-currency-converter",
+                            "main_purpose": "Shopify货币转换工具，根据访客地理位置自动显示本地货币价格，提升国际用户体验和转化率，避免因货币问题导致的购物车放弃。"
+                        }
+                    ]
+                },
+                {
+                    "name": "Shopify Dropshipping",
+                    "websites": [
+                        {
+                            "website_name": "Oberlo",
+                            "official_url": "www.oberlo.com",
+                            "main_purpose": "Shopify dropshipping工具，自动将供应商产品导入店铺，管理订单履行、库存更新和价格调整，简化无库存电商运营流程。"
+                        },
+                        {
+                            "article": "[2019-06-17]案例分析这家店铺如何创造每月百万的销售业绩.md",
+                            "website_name": "Little Style Shop",
+                            "official_url": "https://littlestyleshop.com/",
+                            "main_purpose": "一家做Shopify的店铺，每月销售额达到百万以上，主要销售姿态矫正器等产品。"
+                        }
+                    ]
+                },
+                {
+                    "name": "Shopify店铺分析",
+                    "websites": [
+                        {
+                            "website_name": "Commerce Inspector",
+                            "official_url": "https://crx.commerceinspector.com/dashboard/trends",
+                            "main_purpose": "Shopify店铺分析工具，揭示竞争对手的畅销产品、流量来源和广告策略，提供上新时间和Facebook广告投放数据，帮助卖家快速选品和营销。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Amazon",
+            "subcategories": [
+                {
+                    "name": "产品研究与分析",
+                    "websites": [
+                        {
+                            "website_name": "Jungle Scout",
+                            "official_url": "https://www.junglescout.com/",
+                            "main_purpose": "亚马逊卖家产品研究和分析工具，提供产品机会评分、销量估算、关键词研究和竞争分析，帮助卖家发现盈利产品和优化listing。"
+                        },
+                        {
+                            "website_name": "Amazon",
+                            "official_url": "https://www.amazon.com/",
+                            "main_purpose": "全球最大的电商平台之一，提供第三方卖家入驻服务，覆盖全球多个国家市场，为卖家提供物流、支付、客服等一站式解决方案。"
+                        },
+                        {
+                            "website_name": "Keepa",
+                            "official_url": "https://keepa.com",
+                            "main_purpose": "亚马逊产品价格和销售数据跟踪工具，提供历史价格走势图、销售排名变化和库存状态监控，帮助卖家制定定价策略和选品决策。"
+                        },
+                        {
+                            "website_name": "Fakespot",
+                            "official_url": "https://chrome.google.com/webstore/detail/fakespot-fake-amazon-revi/nakplnnackehceedgkgkokbgbmfghain",
+                            "main_purpose": "亚马逊评论真实性分析工具，使用AI技术检测虚假和付费评论，评估产品真实质量和卖家信誉，帮助卖家了解竞争对手的评价质量。"
+                        },
+                        {
+                            "website_name": "unicom smasher",
+                            "official_url": "",
+                            "main_purpose": "亚马逊产品销量估算工具，提供竞争对手月均销量数据，帮助卖家评估市场规模和产品潜力，制定更精准的库存和营销计划。"
+                        },
+                        {
+                            "website_name": "Amazon Movers & Shakers",
+                            "official_url": "https://www.amazon.com/gp/movers-and-shakers",
+                            "main_purpose": "亚马逊官方销售增长榜单，展示24小时内销售排名上升最快的产品，帮助卖家发现新兴趋势和消费者需求变化，把握市场机会。"
+                        }
+                    ]
+                },
+                {
+                    "name": "亚马逊店铺与产品优化",
+                    "websites": [
+                        {
+                            "website_name": "Helium 10",
+                            "official_url": "",
+                            "main_purpose": "亚马逊卖家综合工具套件，提供关键词研究、竞品分析、listing优化和库存管理功能，帮助卖家提升搜索排名和销售业绩。"
+                        },
+                        {
+                            "website_name": "Zonpages",
+                            "official_url": "",
+                            "main_purpose": "亚马逊营销工具，整合Manychat实现赠品活动、邮件索评和关键词排名优化，帮助卖家提高产品曝光和评价数量，改善搜索排名。"
+                        },
+                        {
+                            "website_name": "Email Campaigns",
+                            "official_url": null,
+                            "main_purpose": "亚马逊智能邮件邀评系统，遵循平台规则合规获取产品评论，自动发送个性化跟进邮件，提高客户评价率和满意度。"
+                        },
+                        {
+                            "website_name": "鸥鹭",
+                            "official_url": "https://www.oulu.com",
+                            "main_purpose": "亚马逊卖家综合工具平台，提供关键词追踪、竞品监控、选品分析和运营数据dashboard，帮助卖家提升工作效率和决策质量。"
+                        }
+                    ]
+                },
+                {
+                    "name": "亚马逊促销与销量提升",
+                    "websites": [
+                        {
+                            "website_name": "JumpSend",
+                            "official_url": "http://Jumpsend.com",
+                            "main_purpose": "亚马逊促销平台，通过限时特价和优惠码提升产品日销量和排名，同时提供自动化邮件跟进功能，增加评论获取率。"
+                        },
+                        {
+                            "article": "[2019-06-03]个人要如何做跨境电商.md",
+                            "website_name": "FBA费用计算工具",
+                            "official_url": "https://amzn.to/1HOEml5",
+                            "main_purpose": "计算亚马逊FBA及佣金费用"
+                        }
+                    ]
+                },
+                {
+                    "name": "亚马逊联盟营销",
+                    "websites": [
+                        {
+                            "website_name": "Easyazon",
+                            "official_url": "http://easyazon.com/",
+                            "main_purpose": "亚马逊联盟营销工具，根据访客IP自动显示对应地区亚马逊商店链接，提高转化率，优化跨国市场的联盟营销效果。"
+                        },
+                        {
+                            "article": "[2019-04-22]亚马逊联盟营销你所不知道的另类玩法.md",
+                            "website_name": "Cool Camping Gear",
+                            "official_url": "http://www.cool-camping-gear.com/",
+                            "main_purpose": "推荐露营装备，吸引特定人群"
+                        },
+                        {
+                            "article": "[2019-04-22]亚马逊联盟营销你所不知道的另类玩法.md",
+                            "website_name": "My Kid Needs That",
+                            "official_url": "https://www.mykidneedsthat.com/",
+                            "main_purpose": "推荐儿童相关产品，吸引特定人群"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Facebook",
+            "subcategories": [
+                {
+                    "name": "Facebook广告管理",
+                    "websites": [
+                        {
+                            "article": "[2019-06-17]案例分析这家店铺如何创造每月百万的销售业绩.md",
+                            "website_name": "AdSpy",
+                            "official_url": null,
+                            "main_purpose": "FB广告的数据库，用于查找和分析广告数据，帮助进行产品调研和广告优化。"
+                        },
+                        {
+                            "website_name": "Roi Hunter",
+                            "official_url": "www.roihunter.com",
+                            "main_purpose": "广告再营销自动化工具，帮助电商卖家优化Facebook、Instagram和Google广告投放，通过AI技术提高广告投资回报率，实现精准客户召回。"
+                        },
+                        {
+                            "website_name": "Facebook广告资料库",
+                            "official_url": "https://www.facebook.com/ads/library",
+                            "main_purpose": "Facebook官方广告透明工具，展示所有活跃广告的创意和文案，帮助卖家研究竞争对手的营销策略，发现长期投放的盈利广告和潜力产品。"
+                        },
+                        {
+                            "website_name": "fbdown.net",
+                            "official_url": "https://www.fbdown.net/",
+                            "main_purpose": "Facebook视频下载工具，帮助营销人员保存竞争对手和成功案例的广告视频，用于研究和参考，优化自身广告创意策略。"
+                        }
+                    ]
+                },
+                {
+                    "name": "Facebook社区与互动",
+                    "websites": [
+                        {
+                            "website_name": "Manychat",
+                            "official_url": "https://manychat.com/",
+                            "main_purpose": "Facebook Messenger营销自动化平台，帮助卖家创建聊天机器人，实现客户互动自动化、引导销售、收集反馈和提高留评率，增强社交媒体营销效果。"
+                        },
+                        {
+                            "website_name": "Coupon Carrier",
+                            "official_url": "https://docs.couponcarrier.io/article/47-getting-started-with-coupon-carrier-and-manychat",
+                            "main_purpose": "与Manychat集成的优惠券发放工具，支持为每位客户生成独特的优惠码，防止滥用，跟踪转化效果，提高营销活动精准度和ROI。"
+                        },
+                        {
+                            "website_name": "Facebook Page",
+                            "official_url": "https://www.facebook.com/lolkey",
+                            "main_purpose": "企业社交媒体主页，用于建立品牌形象、发布产品信息、与粉丝互动和投放广告，增加品牌曝光和客户忠诚度，引导流量到销售渠道。"
+                        },
+                        {
+                            "website_name": "Facebook Group",
+                            "official_url": "https://www.facebook.com/groups/AllaboutLOL",
+                            "main_purpose": "社区管理平台，用于建立垂直领域的用户社群，促进深度用户互动和内容分享，培养品牌拥护者，获取产品反馈和市场洞察。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Google",
+            "subcategories": [
+                {
+                    "name": "Google广告工具",
+                    "websites": [
+                        {
+                            "website_name": "SinoClick",
+                            "official_url": "",
+                            "main_purpose": "跨境电商广告数据分析平台，提供自动化报表生成、多平台数据整合和可视化展示，帮助卖家实时监控广告效果，优化投放策略。"
+                        },
+                        {
+                            "website_name": "SEISO",
+                            "official_url": "http://r6d.cn/acGUQ",
+                            "main_purpose": "谷歌广告自动化管理平台，整合多账户数据分析，提供智能优化建议，帮助卖家保持对自动化广告的控制，应对竞争对手策略。"
+                        },
+                        {
+                            "website_name": "SEISO诊断工具",
+                            "official_url": "http://r6d.cn/acGuZ",
+                            "main_purpose": "Google Ads账户分析工具，自动扫描广告账户结构和表现，识别优化机会和潜在问题，提供专业改进建议，提升广告效果。"
+                        }
+                    ]
+                },
+                {
+                    "name": "Google分析与研究",
+                    "websites": [
+                        {
+                            "website_name": "semrush",
+                            "official_url": "semrush.com",
+                            "main_purpose": "全面的数字营销分析平台，提供竞争对手的SEO、PPC、社交媒体和内容营销数据，包括广告文案、关键词、着陆页和创意素材，帮助优化全渠道营销策略。"
+                        },
+                        {
+                            "article": "[2019-06-03]个人要如何做跨境电商.md",
+                            "website_name": "谷歌趋势",
+                            "official_url": "http://trends.google.com",
+                            "main_purpose": "查询产品趋势和生命周期"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "社交媒体平台工具",
+            "subcategories": [
+                {
+                    "name": "TikTok工具",
+                    "websites": [
+                        {
+                            "website_name": "TikTok",
+                            "official_url": "https://www.tiktok.com/",
+                            "main_purpose": "短视频社交平台，通过创建病毒式内容展示产品功能和使用场景，快速获取大量曝光和引流，特别适合视觉化产品和年轻目标受众。"
+                        },
+                        {
+                            "website_name": "Instagram",
+                            "official_url": "https://www.instagram.com/",
+                            "main_purpose": "图片和短视频社交平台，通过高质量视觉内容展示产品和品牌故事，与影响者合作扩大影响力，利用购物标签功能直接转化销售。"
+                        },
+                        {
+                            "website_name": "YouTube",
+                            "official_url": "https://www.youtube.com/",
+                            "main_purpose": "视频内容平台，通过产品评测、教学和品牌故事视频建立深度用户连接，获取长期流量，提升品牌信任度，支持联盟营销和广告变现。"
+                        },
+                        {
+                            "website_name": "tikstar",
+                            "official_url": "tikstar.com",
+                            "main_purpose": "TikTok数据分析平台，提供账号表现追踪、竞争对手分析和内容趋势洞察，帮助创作者优化内容策略，提高视频互动率和粉丝增长。"
+                        },
+                        {
+                            "website_name": "固乔视频助手",
+                            "official_url": "",
+                            "main_purpose": "视频下载和处理工具，支持TikTok等平台视频无水印下载，帮助创作者获取素材，进行二次创作或跨平台内容发布。"
+                        },
+                        {
+                            "website_name": "剪映",
+                            "official_url": "",
+                            "main_purpose": "移动端视频编辑应用，提供简易操作和丰富模板，适合快速创建短视频内容，支持多平台发布，满足电商日常营销内容制作需求。"
+                        },
+                        {
+                            "article": "[2019-05-24]这个网站我是如何一年中赚到200w.md",
+                            "website_name": "Reddit - Videos",
+                            "official_url": "https://www.reddit.com/r/videos",
+                            "main_purpose": "在视频版块发帖推广英雄联盟产品，增加曝光和互动"
+                        }
+                    ]
+                },
+                {
+                    "name": "YouTube工具",
+                    "websites": [
+                        {
+                            "website_name": "Tubebuddy",
+                            "official_url": "https://www.tubebuddy.com",
+                            "main_purpose": "YouTube频道管理和优化工具，提供标签管理、A/B测试、批量编辑和竞争分析功能，帮助创作者提高频道效率和视频表现。"
+                        },
+                        {
+                            "website_name": "VidIQ",
+                            "official_url": "https://vidiq.com/",
+                            "main_purpose": "YouTube视频优化和分析工具，提供关键词研究、竞争对手分析和内容表现跟踪，帮助创作者提高视频排名和曝光量，优化内容策略。"
+                        },
+                        {
+                            "website_name": "Tubics",
+                            "official_url": "https://www.tubics.com",
+                            "main_purpose": "YouTube SEO和内容优化平台，提供关键词研究、视频脚本建议和缩略图模板，帮助创作者提高视频搜索排名和点击率。"
+                        }
+                    ]
+                },
+                {
+                    "name": "Instagram工具",
+                    "websites": [
+                        {
+                            "website_name": "Iconosquare",
+                            "official_url": "https://iconosquare.com/",
+                            "main_purpose": "社交媒体分析工具，专注于Instagram和Facebook数据分析，提供内容表现、最佳发布时间和有效标签分析，帮助优化社交媒体营销策略。"
+                        },
+                        {
+                            "website_name": "Shoppable",
+                            "official_url": "https://www.shoppable.com/",
+                            "main_purpose": "社交媒体购物工具，将Instagram等平台的内容直接转化为可购买链接，缩短用户购买路径，提高社交媒体营销ROI，无缝连接内容和商务。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "电商平台",
+            "subcategories": [
+                {
+                    "name": "多平台电商",
+                    "websites": [
+                        {
+                            "website_name": "Big Commerce",
+                            "official_url": "www.bigcommerce.com",
+                            "main_purpose": "企业级电商平台，提供可扩展的在线商店解决方案，具有强大的多渠道销售功能、定制化能力和B2B功能，适合中大型企业使用。"
+                        },
+                        {
+                            "article": "[2019-05-24]这个网站我是如何一年中赚到200w.md",
+                            "website_name": "Walmart",
+                            "official_url": "walmart.com",
+                            "main_purpose": "通过沃尔玛平台获取品牌授权，解决产品侵权问题"
+                        },
+                        {
+                            "article": "[2020-02-27]如何低成本开启网站业务新增长文末含福利.md",
+                            "website_name": "Wordpress",
+                            "official_url": "https://wordpress.com",
+                            "main_purpose": "建站"
+                        },
+                        {
+                            "article": "[2020-02-27]如何低成本开启网站业务新增长文末含福利.md",
+                            "website_name": "Opencart",
+                            "official_url": "https://www.opencart.com",
+                            "main_purpose": "建站"
+                        },
+                        {
+                            "article": "[2020-02-27]如何低成本开启网站业务新增长文末含福利.md",
+                            "website_name": "Magento",
+                            "official_url": "https://magento.com",
+                            "main_purpose": "建站"
+                        },
+                        {
+                            "article": "[2020-02-27]如何低成本开启网站业务新增长文末含福利.md",
+                            "website_name": "Ueeshop",
+                            "official_url": "https://www.ueeshop.com",
+                            "main_purpose": "网站建设，全球网络生意"
+                        }
+                    ]
+                },
+                {
+                    "name": "第三方销售平台",
+                    "websites": [
+                        {
+                            "website_name": "速卖通",
+                            "official_url": "https://aliexpress.com",
+                            "main_purpose": "阿里巴巴旗下面向全球的零售平台，连接中国供应商与全球买家，提供多语言支持、国际物流和支付解决方案，适合跨境卖家低成本开拓国际市场。"
+                        },
+                        {
+                            "website_name": "Ebay",
+                            "official_url": "https://www.ebay.com/",
+                            "main_purpose": "全球知名C2C和B2C电商平台，适合各类卖家上架商品，具有拍卖和一口价模式，覆盖全球多个国家市场。"
+                        },
+                        {
+                            "website_name": "阿里巴巴",
+                            "official_url": "https://www.alibaba.com/",
+                            "main_purpose": "全球最大的B2B电商平台，连接全球供应商与采购商，提供批发交易服务，帮助卖家拓展国际贸易业务，获取全球商机。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "跨平台工具",
+            "subcategories": [
+                {
+                    "name": "邮件营销",
+                    "websites": [
+                        {
+                            "website_name": "Klaviyo",
+                            "official_url": "www.klaviyo.com",
+                            "main_purpose": "专为电商设计的电子邮件和短信营销平台，提供客户细分、自动化营销流程、个性化内容和详细分析报告，帮助提高客户转化率和留存率。"
+                        },
+                        {
+                            "website_name": "Sendlane",
+                            "official_url": "https://www.sendlane.com/register",
+                            "main_purpose": "专为电商设计的邮件营销平台，提供深度数据整合、行为触发自动化和客户旅程规划，帮助提高邮件转化率和客户终身价值。"
+                        },
+                        {
+                            "website_name": "FAM",
+                            "official_url": "https://meetfam.com/",
+                            "main_purpose": "高级邮件营销工具，专注于电商客户关系管理，提供个性化邮件序列、A/B测试和详细分析功能，帮助提高客户参与度和销售转化。"
+                        },
+                        {
+                            "article": "[2019-08-26]手把手教你如何寻找WinningadFacebook广告.md",
+                            "website_name": "markbrinker",
+                            "official_url": "https://www.markbrinker.com/",
+                            "main_purpose": "案例分析中提到的网站，用于展示如何在4周内将转化率提高4倍"
+                        },
+                        {
+                            "article": "[2019-12-25]一分钟验证你的产品选对了吗.md",
+                            "website_name": "SellerMotor市场洞察",
+                            "official_url": "",
+                            "main_purpose": "量化分析目标关键词的市场总体情况，为市场进入决策及后续的产品运营提供切实可行的参考"
+                        }
+                    ]
+                },
+                {
+                    "name": "物流与库存管理",
+                    "websites": [
+                        {
+                            "website_name": "Shipstation",
+                            "official_url": "www.shipstation.com",
+                            "main_purpose": "全渠道订单和物流管理平台，整合多个销售渠道和物流商，自动化订单处理、标签打印和跟踪通知，提高发货效率，降低物流成本。"
+                        },
+                        {
+                            "website_name": "Inventory Planner",
+                            "official_url": "https://www.inventory-planner.com/",
+                            "main_purpose": "智能库存管理和预测系统，基于销售历史和趋势分析预测库存需求，提供补货建议和多仓库库存分配策略，防止缺货和过度库存。"
+                        },
+                        {
+                            "website_name": "SellerCloud数魔云管家",
+                            "official_url": "https://shimo.im/docs/5b9f6b3cb26a4d95/read",
+                            "main_purpose": "跨平台电商店铺管理系统，提供多账号独立IP登录解决方案，防止店铺关联和封号风险，同时整合订单、库存和物流管理功能。"
+                        }
+                    ]
+                },
+                {
+                    "name": "客户服务",
+                    "websites": [
+                        {
+                            "website_name": "Gorgias",
+                            "official_url": "https://www.gorgias.com/",
+                            "main_purpose": "电商客户服务平台，集中管理所有渠道的客户沟通，包括邮件、社交媒体和聊天，提供自动化回复和详细客户历史，提升客服效率和客户满意度。"
+                        },
+                        {
+                            "website_name": "Yotpo",
+                            "official_url": "https://www.yotpo.com/",
+                            "main_purpose": "电商评价和用户生成内容管理平台，帮助卖家收集、管理和展示客户评价、照片和视频，建立社会证明，提高转化率和客户忠诚度。"
+                        },
+                        {
+                            "website_name": "Tawk",
+                            "official_url": "www.tawk.to",
+                            "main_purpose": "免费的实时网站访客沟通工具，提供在线聊天、自动回复和访客监控功能，帮助卖家提升客户服务质量，增加转化率和客户满意度。"
+                        }
+                    ]
+                },
+                {
+                    "name": "SEO与关键词工具",
+                    "websites": [
+                        {
+                            "website_name": "Spyfu",
+                            "official_url": "https://www.spyfu.com/",
+                            "main_purpose": "竞争对手关键词和广告分析工具，揭示竞争对手的搜索营销策略，包括他们的关键词、广告投放预算和排名历史，帮助优化自身SEO和SEM策略。"
+                        },
+                        {
+                            "article": "[2019-06-03]个人要如何做跨境电商.md",
+                            "website_name": "KWFinder",
+                            "official_url": "https://kwfinder.com",
+                            "main_purpose": "判断关键词的热度"
+                        },
+                        {
+                            "article": "[2019-06-03]个人要如何做跨境电商.md",
+                            "website_name": "Keywordtooldominator",
+                            "official_url": "https://bit.ly/2vdMLnF",
+                            "main_purpose": "获取符合老外搜索习惯的关键词"
+                        },
+                        {
+                            "article": "[2019-07-26]超实用超优惠的福利来啦.md",
+                            "website_name": "BrightLocal",
+                            "official_url": "https://www.brightlocal.com/local-search-results-checker/",
+                            "main_purpose": "精确到邮编区号的SEO排名查询"
+                        }
+                    ]
+                },
+                {
+                    "name": "内容营销分析",
+                    "websites": [
+                        {
+                            "website_name": "BuzzSumo",
+                            "official_url": "https://buzzsumo.com/",
+                            "main_purpose": "内容营销研究工具，分析各行业最受欢迎内容和趋势，提供竞争对手内容表现数据和影响者信息，帮助制定高效内容策略和影响者合作计划。"
+                        },
+                        {
+                            "website_name": "builtwith",
+                            "official_url": "https://builtwith.com/",
+                            "main_purpose": "网站技术分析工具，揭示竞争对手网站使用的平台、插件、主题和第三方服务，帮助卖家了解行业技术趋势和优化自身网站架构。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Dropshipping与供应链",
+            "subcategories": [
+                {
+                    "name": "产品研究与发现",
+                    "websites": [
+                        {
+                            "website_name": "Dropship Spy",
+                            "official_url": "https://dropship-spy.com/",
+                            "main_purpose": "Dropshipping产品研究工具，监控Facebook和Instagram上的爆款产品，提供销售数据、目标受众分析和关键词建议，帮助卖家发现高利润产品机会。"
+                        },
+                        {
+                            "website_name": "Pexda",
+                            "official_url": "https://pexda.com/",
+                            "main_purpose": "Dropshipping产品发现平台，分析Facebook广告数据找出高转化产品，提供受众细分、广告创意和供应商信息，同时提供广告投放服务支持。"
+                        },
+                        {
+                            "website_name": "NicheScrapper",
+                            "official_url": "https://nichescraper.com",
+                            "main_purpose": "Dropshipping产品研究工具，由专家团队挑选潜在爆款产品，提供销售数据、受众分析和营销素材，同时提供免费视频制作工具支持产品推广。"
+                        }
+                    ]
+                },
+                {
+                    "name": "供应商目录",
+                    "websites": [
+                        {
+                            "website_name": "Worldwide Brands",
+                            "official_url": "https://www.worldwidebrands.com/",
+                            "main_purpose": "经过验证的批发"
+                        },
+                        {
+                            "article": "[2019-05-24]这个网站我是如何一年中赚到200w.md",
+                            "website_name": "Wholesale Central",
+                            "official_url": "wholesalecentral.com",
+                            "main_purpose": "寻找拥有品牌授权的批发商，确保产品合法性"
+                        },
+                        {
+                            "article": "[2019-10-18]教你如何正确的选择dropshipping的供应商.md",
+                            "website_name": "SaleHoo",
+                            "official_url": "https://www.salehoo.com",
+                            "main_purpose": "供应商名录，列出超过8000个dropshipping供应商，适合eBay和Amazon上的零售商"
+                        },
+                        {
+                            "article": "[2019-10-18]教你如何正确的选择dropshipping的供应商.md",
+                            "website_name": "Doba",
+                            "official_url": "",
+                            "main_purpose": "结合了dropshipper的服务，提供集中式界面向多个仓库下单，并可用Push-to-Marketplace工具将产品自动传到eBay上"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "内容创作与设计工具",
+            "subcategories": [
+                {
+                    "name": "视频制作",
+                    "websites": [
+                        {
+                            "website_name": "一米处理软件",
+                            "official_url": "www.yimi666.cn",
+                            "main_purpose": "视频批量处理工具，支持自动检测和去除重复视频，优化媒体库管理，提高内容创作效率，避免重复发布导致的平台惩罚。"
+                        },
+                        {
+                            "website_name": "万兴喵影",
+                            "official_url": "",
+                            "main_purpose": "专业视频剪辑软件，提供直观的编辑界面和丰富的特效，适合电商卖家制作产品展示、教学和品牌视频，提升内容专业度和吸引力。"
+                        },
+                        {
+                            "website_name": "animoto",
+                            "official_url": "https://animoto.com",
+                            "main_purpose": "在线视频制作工具，专注于将静态图片转化为动态视频，帮助电商卖家快速创建产品展示轮播和广告素材，无需专业剪辑技能。"
+                        },
+                        {
+                            "article": "[2019-09-16]从零开始30天学会在shopify上开店之Facebook广告创意制作Day.md",
+                            "website_name": "Placeit",
+                            "official_url": "https://placeit.net",
+                            "main_purpose": "生成真实的产品展示图，如T恤模型设计"
+                        }
+                    ]
+                },
+                {
+                    "name": "设计与视觉创意",
+                    "websites": [
+                        {
+                            "website_name": "Canva",
+                            "official_url": "https://www.canva.com",
+                            "main_purpose": "在线平面设计工具，提供专业模板和简易编辑功能，帮助电商卖家创建广告图片、社交媒体内容和产品图，提升品牌视觉一致性。"
+                        },
+                        {
+                            "website_name": "Unsplash",
+                            "official_url": "https://unsplash.com",
+                            "main_purpose": "免费高质量图片平台，提供专业商业可用照片，同时作为发现产品测评、网红合作和品牌推广的渠道，支持创作者与品牌连接。"
+                        },
+                        {
+                            "website_name": "placeit.net",
+                            "official_url": "https://placeit.net",
+                            "main_purpose": "产品模型和场景模板平台，帮助电商卖家创建真实的产品展示效果图和场景应用图，提升产品专业度和吸引力，无需专业摄影。"
+                        },
+                        {
+                            "website_name": "Lightroom",
+                            "official_url": "https://www.lightroom.com/",
+                            "main_purpose": "专业图片处理软件，提供高级色彩校正和批量编辑功能，帮助电商卖家创建一致性高的产品图片，提升视觉吸引力和专业度。"
+                        },
+                        {
+                            "website_name": "Dribbble",
+                            "official_url": "https://dribbble.com/",
+                            "main_purpose": "设计师社区和作品展示平台，提供包装设计、品牌标识和网页界面灵感，帮助电商卖家获取设计趋势和创意，提升产品视觉表现。"
+                        },
+                        {
+                            "website_name": "Behance",
+                            "official_url": "https://www.behance.net/",
+                            "main_purpose": "创意作品展示平台，提供各类设计项目案例和创意灵感，帮助电商卖家了解设计趋势，寻找专业设计师合作，提升品牌视觉质量。"
+                        },
+                        {
+                            "website_name": "Awwwards",
+                            "official_url": "https://www.awwwards.com/",
+                            "main_purpose": "网页设计奖项和灵感平台，展示全球最佳网站设计案例，帮助电商卖家获取前沿设计理念，提升店铺用户体验和视觉吸引力。"
+                        },
+                        {
+                            "website_name": "Creative Market",
+                            "official_url": "https://creativemarket.com/",
+                            "main_purpose": "创意资源市场，提供高质量的字体、图标、模板和图片素材，帮助电商卖家快速获取专业设计资源，提升品牌和产品视觉表现。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "支付与财务",
+            "subcategories": [
+                {
+                    "name": "跨境支付工具",
+                    "websites": [
+                        {
+                            "website_name": "鲁班跨境通",
+                            "official_url": "",
+                            "main_purpose": "跨境电商广告账户充值服务，支持Facebook、Google、TikTok等平台的自主开户和充值，解决海外支付难题，降低广告投放成本。"
+                        },
+                        {
+                            "article": "[2019-06-03]个人要如何做跨境电商.md",
+                            "website_name": "派安盈",
+                            "official_url": "https://www.payoneer.com/zh",
+                            "main_purpose": "用于亚马逊店铺的美元收款账户"
+                        },
+                        {
+                            "article": "[2019-07-26]超实用超优惠的福利来啦.md",
+                            "website_name": "WorldFirst",
+                            "official_url": "",
+                            "main_purpose": "提供0费率提现境内人民币的跨境电商收款服务"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "特色商业模式",
+            "subcategories": [
+                {
+                    "name": "利基店与案例",
+                    "websites": [
+                        {
+                            "website_name": "Temiypt",
+                            "official_url": "https://temiypt.com",
+                            "main_purpose": "展示倒买倒卖商业模式的案例网站，通过独立站以高价销售从速卖通等平台低价采购的产品，实现价格差套利。"
+                        },
+                        {
+                            "article": "[2019-05-17]从零开始30天学会在shopify上开店之杂货店VS利基店Day4.md",
+                            "website_name": "twostupidcats",
+                            "official_url": "https://twostupidcats.com",
+                            "main_purpose": "这家店跨了很多类目，比如配件、服饰、手机壳、家装、电子产品等，但是所有产品都有猫咪元素，目标受众就是那些喜欢猫咪的用户。"
+                        },
+                        {
+                            "article": "[2019-05-17]从零开始30天学会在shopify上开店之杂货店VS利基店Day4.md",
+                            "website_name": "thegadgetflow",
+                            "official_url": "https://shop.thegadgetflow.com",
+                            "main_purpose": "这个店的产品很杂，有手表、手机壳、咖啡杯、移动电源、背包等各种品类的普通产品。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "生产力与项目管理",
+            "subcategories": [
+                {
+                    "name": "任务管理工具",
+                    "websites": [
+                        {
+                            "article": "[2019-11-29]亚马逊卖家如何高效提升工作效率如何选品看这里.md",
+                            "website_name": "Microsoft To-do",
+                            "official_url": "https://to-do.microsoft.com",
+                            "main_purpose": "任务管理工具，帮助用户规划和管理日常任务"
+                        },
+                        {
+                            "article": "[2019-11-29]亚马逊卖家如何高效提升工作效率如何选品看这里.md",
+                            "website_name": "奇妙清单",
+                            "official_url": "https://www.wunderlist.com",
+                            "main_purpose": "任务管理工具，帮助用户规划和管理日常任务"
+                        },
+                        {
+                            "article": "[2019-11-29]亚马逊卖家如何高效提升工作效率如何选品看这里.md",
+                            "website_name": "Any.do",
+                            "official_url": "https://www.any.do",
+                            "main_purpose": "任务管理工具，帮助用户规划和管理日常任务"
+                        }
+                    ]
+                },
+                {
+                    "name": "资源导航",
+                    "websites": [
+                        {
+                            "article": "[2019-05-06]什么KeepaMerchantwords统统免费.md",
+                            "website_name": "Amz520",
+                            "official_url": "www.amz520.com",
+                            "main_purpose": "一款专门为跨境电商卖家而生的网址导航，集各种颜值、功能为一体，适合亚马逊、Shopify独立站卖家使用。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "品牌推广与PR",
+            "subcategories": [
+                {
+                    "name": "媒体曝光",
+                    "websites": [
+                        {
+                            "website_name": "Launch Grow Joy",
+                            "official_url": "https://www.launchgrowjoy.com/",
+                            "main_purpose": "电商品牌媒体曝光和PR服务平台，帮助卖家获取媒体报道、产品评测和影响者合作机会，增加品牌知名度和可信度，获取高质量潜在客户。"
+                        },
+                        {
+                            "article": "[2019-12-27]如何利用礼品指南来提升店铺销售.md",
+                            "website_name": "Realsimple",
+                            "official_url": "https://www.realsimple.com/holidays-entertaining/gifts/holiday-gift-guide",
+                            "main_purpose": "包含所有的假日购物指南，提供产品简介、价格、购买链接等信息"
+                        },
+                        {
+                            "article": "[2019-12-27]如何利用礼品指南来提升店铺销售.md",
+                            "website_name": "Gifts.com",
+                            "official_url": "https://www.gifts.com",
+                            "main_purpose": "专门做购物指南的网站"
+                        },
+                        {
+                            "article": "[2019-12-27]如何利用礼品指南来提升店铺销售.md",
+                            "website_name": "Homemade Gifts Made Easy",
+                            "official_url": "https://www.homemade-gifts-made-easy.com/index.html",
+                            "main_purpose": "专门做购物指南的网站"
+                        },
+                        {
+                            "article": "[2019-12-27]如何利用礼品指南来提升店铺销售.md",
+                            "website_name": "Gifttree Blog",
+                            "official_url": "https://www.gifttree.com/gifts-blog/",
+                            "main_purpose": "专门做购物指南的网站"
+                        },
+                        {
+                            "article": "[2019-12-27]如何利用礼品指南来提升店铺销售.md",
+                            "website_name": "ThinkGeek",
+                            "official_url": "https://www.thinkgeek.com/gifts/",
+                            "main_purpose": "在自己的网站上有购物指南，帮助获取自然搜索流量"
+                        }
+                    ]
+                },
+                {
+                    "name": "社区内容平台",
+                    "websites": [
+                        {
+                            "website_name": "Blogspot",
+                            "official_url": "https://aalol-club.blogspot.com/",
+                            "main_purpose": "免费博客平台，用于发布SEO友好的内容，建立行业权威性，通过有价值的内容吸引自然流量，与社交媒体营销结合形成多元化引流策略。"
+                        },
+                        {
+                            "website_name": "Reddit",
+                            "official_url": "https://www.reddit.com/r/leagueoflegends",
+                            "main_purpose": "兴趣社区平台，通过参与相关话题讨论和分享有价值内容，增加品牌曝光和产品推广，获取目标用户反馈和市场洞察，建立行业影响力。"
+                        },
+                        {
+                            "article": "[2019-09-23]创业3天交易额92216Shopify实战案例.md",
+                            "website_name": "Product Hunt",
+                            "official_url": "https://www.producthunt.com/",
+                            "main_purpose": "发布和推广新产品"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
