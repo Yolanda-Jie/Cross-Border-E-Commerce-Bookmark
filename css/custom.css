@@ -1,0 +1,46 @@
+.xe-widget.xe-conversations {
+    height: 150px; /* 设置固定高度，根据实际需要调整 */
+    display: flex;
+    flex-direction: column;
+}
+
+.xe-widget .xe-comment-entry {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.xe-widget .xe-comment {
+    flex-grow: 1;
+}
+
+/* 确保描述文字不会过长 */
+.overflowClip_2 {
+    max-height: 40px; /* 调整为合适的高度 */
+    overflow: hidden;
+}
+
+.tools-category {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px; /* 匹配Bootstrap的间距 */
+}
+
+.tool-card {
+    width: calc(25% - 30px);
+    margin: 15px;
+    /* 其他样式 */
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    .tool-card {
+        width: calc(50% - 30px);
+    }
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+} 
